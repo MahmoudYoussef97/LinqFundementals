@@ -1,0 +1,12 @@
+D:\repos\LinqPracticing\LinqIntroduction\bin\Debug\netcoreapp3.1\LinqIntroduction.exe
+D:\repos\LinqPracticing\LinqIntroduction\bin\Debug\netcoreapp3.1\LinqIntroduction.deps.json
+D:\repos\LinqPracticing\LinqIntroduction\bin\Debug\netcoreapp3.1\LinqIntroduction.runtimeconfig.json
+D:\repos\LinqPracticing\LinqIntroduction\bin\Debug\netcoreapp3.1\LinqIntroduction.runtimeconfig.dev.json
+D:\repos\LinqPracticing\LinqIntroduction\bin\Debug\netcoreapp3.1\LinqIntroduction.dll
+D:\repos\LinqPracticing\LinqIntroduction\bin\Debug\netcoreapp3.1\LinqIntroduction.pdb
+D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\LinqIntroduction.csprojAssemblyReference.cache
+D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\LinqIntroduction.AssemblyInfoInputs.cache
+D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\LinqIntroduction.AssemblyInfo.cs
+D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\LinqIntroduction.dll
+D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\LinqIntroduction.pdb
+D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\LinqIntroduction.genruntimeconfig.cache

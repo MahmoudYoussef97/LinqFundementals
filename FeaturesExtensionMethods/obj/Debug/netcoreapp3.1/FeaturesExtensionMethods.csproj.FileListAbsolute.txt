@@ -1,0 +1,12 @@
+D:\repos\LinqPracticing\FeaturesExtensionMethods\bin\Debug\netcoreapp3.1\FeaturesExtensionMethods.exe
+D:\repos\LinqPracticing\FeaturesExtensionMethods\bin\Debug\netcoreapp3.1\FeaturesExtensionMethods.deps.json
+D:\repos\LinqPracticing\FeaturesExtensionMethods\bin\Debug\netcoreapp3.1\FeaturesExtensionMethods.runtimeconfig.json
+D:\repos\LinqPracticing\FeaturesExtensionMethods\bin\Debug\netcoreapp3.1\FeaturesExtensionMethods.runtimeconfig.dev.json
+D:\repos\LinqPracticing\FeaturesExtensionMethods\bin\Debug\netcoreapp3.1\FeaturesExtensionMethods.dll
+D:\repos\LinqPracticing\FeaturesExtensionMethods\bin\Debug\netcoreapp3.1\FeaturesExtensionMethods.pdb
+D:\repos\LinqPracticing\FeaturesExtensionMethods\obj\Debug\netcoreapp3.1\FeaturesExtensionMethods.csprojAssemblyReference.cache
+D:\repos\LinqPracticing\FeaturesExtensionMethods\obj\Debug\netcoreapp3.1\FeaturesExtensionMethods.AssemblyInfoInputs.cache
+D:\repos\LinqPracticing\FeaturesExtensionMethods\obj\Debug\netcoreapp3.1\FeaturesExtensionMethods.AssemblyInfo.cs
+D:\repos\LinqPracticing\FeaturesExtensionMethods\obj\Debug\netcoreapp3.1\FeaturesExtensionMethods.dll
+D:\repos\LinqPracticing\FeaturesExtensionMethods\obj\Debug\netcoreapp3.1\FeaturesExtensionMethods.pdb
+D:\repos\LinqPracticing\FeaturesExtensionMethods\obj\Debug\netcoreapp3.1\FeaturesExtensionMethods.genruntimeconfig.cache

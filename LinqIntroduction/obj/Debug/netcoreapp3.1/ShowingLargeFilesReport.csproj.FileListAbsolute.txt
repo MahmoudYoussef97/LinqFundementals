@@ -1,0 +1,11 @@
+D:\repos\LinqPracticing\LinqIntroduction\bin\Debug\netcoreapp3.1\ShowingLargeFilesReport.exe
+D:\repos\LinqPracticing\LinqIntroduction\bin\Debug\netcoreapp3.1\ShowingLargeFilesReport.deps.json
+D:\repos\LinqPracticing\LinqIntroduction\bin\Debug\netcoreapp3.1\ShowingLargeFilesReport.runtimeconfig.json
+D:\repos\LinqPracticing\LinqIntroduction\bin\Debug\netcoreapp3.1\ShowingLargeFilesReport.runtimeconfig.dev.json
+D:\repos\LinqPracticing\LinqIntroduction\bin\Debug\netcoreapp3.1\ShowingLargeFilesReport.dll
+D:\repos\LinqPracticing\LinqIntroduction\bin\Debug\netcoreapp3.1\ShowingLargeFilesReport.pdb
+D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\ShowingLargeFilesReport.AssemblyInfoInputs.cache
+D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\ShowingLargeFilesReport.AssemblyInfo.cs
+D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\ShowingLargeFilesReport.dll
+D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\ShowingLargeFilesReport.pdb
+D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\ShowingLargeFilesReport.genruntimeconfig.cache
