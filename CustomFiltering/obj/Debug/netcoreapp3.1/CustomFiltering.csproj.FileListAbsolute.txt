@@ -1,0 +1,12 @@
+D:\repos\LinqPracticing\CustomFiltering\bin\Debug\netcoreapp3.1\CustomFiltering.exe
+D:\repos\LinqPracticing\CustomFiltering\bin\Debug\netcoreapp3.1\CustomFiltering.deps.json
+D:\repos\LinqPracticing\CustomFiltering\bin\Debug\netcoreapp3.1\CustomFiltering.runtimeconfig.json
+D:\repos\LinqPracticing\CustomFiltering\bin\Debug\netcoreapp3.1\CustomFiltering.runtimeconfig.dev.json
+D:\repos\LinqPracticing\CustomFiltering\bin\Debug\netcoreapp3.1\CustomFiltering.dll
+D:\repos\LinqPracticing\CustomFiltering\bin\Debug\netcoreapp3.1\CustomFiltering.pdb
+D:\repos\LinqPracticing\CustomFiltering\obj\Debug\netcoreapp3.1\CustomFiltering.csprojAssemblyReference.cache
+D:\repos\LinqPracticing\CustomFiltering\obj\Debug\netcoreapp3.1\CustomFiltering.AssemblyInfoInputs.cache
+D:\repos\LinqPracticing\CustomFiltering\obj\Debug\netcoreapp3.1\CustomFiltering.AssemblyInfo.cs
+D:\repos\LinqPracticing\CustomFiltering\obj\Debug\netcoreapp3.1\CustomFiltering.dll
+D:\repos\LinqPracticing\CustomFiltering\obj\Debug\netcoreapp3.1\CustomFiltering.pdb
+D:\repos\LinqPracticing\CustomFiltering\obj\Debug\netcoreapp3.1\CustomFiltering.genruntimeconfig.cache
