@@ -1,0 +1,13 @@
+D:\repos\LinqPracticing\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+D:\repos\LinqPracticing\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+D:\repos\LinqPracticing\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+D:\repos\LinqPracticing\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+D:\repos\LinqPracticing\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+D:\repos\LinqPracticing\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+D:\repos\LinqPracticing\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+D:\repos\LinqPracticing\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+D:\repos\LinqPracticing\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+D:\repos\LinqPracticing\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+D:\repos\LinqPracticing\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+D:\repos\LinqPracticing\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
+D:\repos\LinqPracticing\Cars\bin\Debug\netcoreapp3.1\fuel.csv

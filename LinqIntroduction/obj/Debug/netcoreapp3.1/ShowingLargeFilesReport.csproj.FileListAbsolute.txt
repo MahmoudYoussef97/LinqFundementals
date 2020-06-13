@@ -9,3 +9,4 @@ D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\ShowingLargeFil
 D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\ShowingLargeFilesReport.dll
 D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\ShowingLargeFilesReport.pdb
 D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\ShowingLargeFilesReport.genruntimeconfig.cache
+D:\repos\LinqPracticing\LinqIntroduction\obj\Debug\netcoreapp3.1\ShowingLargeFilesReport.csprojAssemblyReference.cache

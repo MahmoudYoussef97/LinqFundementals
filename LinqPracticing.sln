@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShowingLargeFilesReport", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeaturesExtensionMethods", "FeaturesExtensionMethods\FeaturesExtensionMethods.csproj", "{809313B1-0260-43E8-A12E-80B3FFD3CB06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomFiltering", "CustomFiltering\CustomFiltering.csproj", "{8302B514-7E78-4181-8DD2-3CE40476BEF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomFiltering", "CustomFiltering\CustomFiltering.csproj", "{8302B514-7E78-4181-8DD2-3CE40476BEF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars", "Cars\Cars.csproj", "{4334DCA4-1E04-481E-9FA7-FE40B99ACC7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{8302B514-7E78-4181-8DD2-3CE40476BEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8302B514-7E78-4181-8DD2-3CE40476BEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8302B514-7E78-4181-8DD2-3CE40476BEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4334DCA4-1E04-481E-9FA7-FE40B99ACC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4334DCA4-1E04-481E-9FA7-FE40B99ACC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4334DCA4-1E04-481E-9FA7-FE40B99ACC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4334DCA4-1E04-481E-9FA7-FE40B99ACC7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
